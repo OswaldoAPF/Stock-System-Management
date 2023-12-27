@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "flor-de-bazar-sistema-de-st0ck",
+    "firebase use --add": "flor-de-bazar-sistema-de-stock",
+    "Stock System Management": "flor-de-bazar-sistema-de-st0ck"
+  },
+  "targets": {},
+  "etags": {}
+}
