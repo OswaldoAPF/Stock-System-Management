@@ -5,7 +5,7 @@
 ## 🛠 Descripcion
 <p>Sistema de stock interactivo con base de datos en tiempo real para crear, leer, editar y eliminar productos. 
   El mismo, tiene diversas funcionalidades y secciones, para facilitar trabajo de control de stock.</p>
-<p>El mismo lo realicé en coolaboración con <a href="https://github.com/LiliTaschini" target="_blank">✨LiliTaschini</a></p> 
+<p>Lo realicé en coolaboración con <a href="https://github.com/LiliTaschini" target="_blank">✨LiliTaschini</a></p> 
 
 
 ## 🌼 URL 
